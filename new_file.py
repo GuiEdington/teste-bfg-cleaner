@@ -1,2 +1,2 @@
-password_2 = '***REMOVED***'
+password_2 = ''
 print(password_2)

@@ -1,2 +1,2 @@
-key = '***REMOVED***'
+key = ''
 print(key)
